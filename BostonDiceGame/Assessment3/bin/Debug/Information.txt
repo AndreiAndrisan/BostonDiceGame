@@ -1,0 +1,7 @@
+	
+	GOING TO BOSTON dice game.
+
+ The concept of GOING TO BOSTON is not complicated. It needs three dice. Roll the three dice and take the highest number from each roll. Each time you roll you lose a die. So the first roll is going to be with three dice, the second with two, and the third with a single die. Total up the three dice, the player with the highest value wins that round.
+ You can choose between the two versions of the game.
+  MATCH PLAY : Players win a point each round. The first to 5 wins the game.
+  SCORE PLAY : Players add up their total after each round. The player with the highest score after 5 rounds wins the game.
